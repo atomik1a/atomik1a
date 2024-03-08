@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toedangler
+- 👋 Hi, I’m @atom1ka
 - 👀 I’m interested in ... languages of all sorts. 
 - 🌱 I’m currently learning ...Python, Git, Linux, and Korean
 - 💞️ I’m looking to collaborate on ...system administration!
